@@ -24,11 +24,11 @@ For 50 years, WWF has been protecting the future of nature. The world's leading 
 
 ## Special Notes
 
-Browsers generally render blockquote text as indented text. If your quoted text needs to display within a non-quoted paragraph, you should use the HTML q tag. Most browsers surround q text with quotation marks.  
+Browsers generally render blockquote text as indented text. If your quoted text needs to display within a non-quoted paragraph, you should use the HTML `<q>` tag. Most browsers surround `<q>` text with quotation marks.  
 
 ## Browser Support   
 
-| Chrome | Firefox  | IE | Opera | Safari | Android |
-|---|--|--|----|----|---|
-| Yes | Yes | Yes |FYes |Yes |Yes |
+| Chrome | Firefox  | IE | Opera | Safari | Android |  
+|---|:--:|:--:|:----:|:---:|:---:|  
+| Yes | Yes | Yes |Yes |Yes |Yes |
 
